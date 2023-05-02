@@ -6,6 +6,5 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: radklim_conversion_python 
 - file: markdown-notebooks
 - file: mymarkdownfile
